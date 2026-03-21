@@ -1,2 +1,3 @@
-# ultra-iot-platform-705k
-A IoT device management platform for modern development workflows
+# Ultra Iot Platform 705K
+
+A IoT device management platform for modern development workflows.
